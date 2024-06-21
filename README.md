@@ -1,12 +1,11 @@
-CID_717_Athena_Commando_F_BlueFlames, 1200
-CID_716_Athena_Commando_M_BlueFlames, 1200
-Pickaxe_ID_370_BlueFlames, 800
+CID_703_Athena_Commando_M_Cyclone, 2000
+Pickaxe_ID_376_FNCS, 3000
+EID_Cyclone, 500
 na
 na
 na
-Wrap_078_SlurpJuice, 700
-EID_DreamFeet, 400
-CID_123_Athena_Commando_F_Metal, 1200
-Pickaxe_ID_049_Metal, 800
-CID_259_Athena_Commando_M_StreetOps, 1500
-Glider_ID_073_Medic, 1200
+EID_DreamFeet, 500
+CID_493_Athena_Commando_F_JurassicArchaeology, 800
+Pickaxe_ID_041_PajamaParty, 800
+CID_362_Athena_Commando_F_BandageNinja, 1500
+Glider_ID_133_BandageNinja, 1200

@@ -2,19 +2,19 @@
     "//": "BR Item Shop Config",
     "daily1": {
         "itemGrants": [
-            "AthenaCharacter:CID_123_Athena_Commando_F_Metal"
+            "AthenaCharacter:CID_493_Athena_Commando_F_JurassicArchaeology"
         ],
-        "price": 1200
+        "price": 800
     },
     "daily2": {
         "itemGrants": [
-            "AthenaPickaxe:Pickaxe_ID_049_Metal"
+            "AthenaPickaxe:Pickaxe_ID_041_PajamaParty"
         ],
         "price": 800
     },
     "daily3": {
         "itemGrants": [
-            "AthenaCharacter:CID_259_Athena_Commando_M_StreetOps"
+            "AthenaCharacter:CID_362_Athena_Commando_F_BandageNinja"
         ],
         "price": 1500
     },
@@ -26,31 +26,31 @@
     },
     "daily5": {
         "itemGrants": [
-            "AthenaItemWrap:Wrap_078_SlurpJuice"
+            "AthenaItemWrap:Wrap_065_AssassinSuit01"
         ],
-        "price": 700
+        "price": 200
     },
     "daily6": {
         "itemGrants": [
-            "AthenaGlider:Glider_ID_073_Medic"
+            "AthenaGlider:Umbrella_PaperParasol"
         ],
-        "price": 800
+        "price": 500
     },
     "featured1": {
         "itemGrants": [
-            "AthenaCharacter:CID_717_Athena_Commando_F_BlueFlames"
+            "AthenaCharacter:CID_703_Athena_Commando_M_Cyclone"
         ],
-        "price": 1200
+        "price": 2000
     },
     "featured2": {
         "itemGrants": [
-            "AthenaCharacter:CID_716_Athena_Commando_M_BlueFlames"
+            "AthenaItemWrap:Wrap_210_Thermal"
         ],
-        "price": 1200
+        "price": 500
     },
     "featured3": {
         "itemGrants": [
-            "AthenaPickaxe:Pickaxe_ID_370_BlueFlames"
+            "AthenaDance:EID_Cyclone"
         ],
         "price": 800
     }

@@ -20,21 +20,21 @@
     },
     "daily4": {
         "itemGrants": [
+            "AthenaGlider:Glider_ID_133_BandageNinja"
+        ],
+        "price": 1200
+    },
+    "daily5": {
+        "itemGrants": [
             "AthenaDance:EID_DreamFeet"
         ],
         "price": 500
     },
-    "daily5": {
+    "daily6": {
         "itemGrants": [
             "AthenaItemWrap:Wrap_065_AssassinSuit01"
         ],
         "price": 200
-    },
-    "daily6": {
-        "itemGrants": [
-            "AthenaGlider:Umbrella_PaperParasol"
-        ],
-        "price": 500
     },
     "featured1": {
         "itemGrants": [
